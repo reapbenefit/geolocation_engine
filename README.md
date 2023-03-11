@@ -31,14 +31,11 @@ So we decided to build this system as a **Digital Public Good** and open source 
 2. **RB Locations system** is used to convert the same Lat-Long into Ward, GP, AC, LS etc
 
 ### Data Processing
-1. Bulk process via a python script (Git link to come here)
+1. Bulk process via a python script -[GitRepo here](https://github.com/reapbenefit/offlinegoecoder). You can use this for bulk processing on your localhost.
 2. Use cURL via command prompt for 1 off conversions or use the [Geo Converter Website](https://reapbenefit.github.io/geolocationwebsite/)
-
-### Enriching and Delivery via bulk processing
-
+3. Integrate into the Glific WhatsApp Chatbot ecosystem using this code.
 
 ### Enriching and Delivery via [Glific's](http://www.glific.com) WhatsApp Chatbot
-
 If you are using a Whatsapp Chatbot powered by [Glific](http://www.glific.com) , this system inserts all the parameters retrieved into the user's contact profile.
 
 We invite support in the form of:
@@ -50,7 +47,7 @@ Ward :
 
 
 ## Running instructions
-
+1. Install Laravel if not done
 
 ### Demo section
 
