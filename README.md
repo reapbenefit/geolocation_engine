@@ -65,6 +65,15 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 ### Standards suggested for Naming Conventions
 
 
+## Data Ingested
+### Karnataka State
+1. All AC boundaries
+2. All LS boundaries
+3. GP boundaries
+4. Village boundaries
+5. Hobli boundaries
+
+
 ## Credits
 ### Development
 ColoredCow team for contributing to the code
