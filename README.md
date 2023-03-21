@@ -68,6 +68,7 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 ## Data Ingested
 ### Andhra Pradesh
 1. GP boundaries
+2. Hobli/Block boundaries
 
 ### Arunachal Pradesh
 
@@ -79,11 +80,17 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 
 ### Chhattisgarh
 
+### Delhi/NCT
+1. Wards
+2. ACs
+
 ### Goa
 
 ### Gujarat
 
 ### Haryana
+1. GP boundaries
+2. Hobli/Block boundaries
 
 ### Himachal Pradesh
 
@@ -101,6 +108,7 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 ### Kerala
 
 ### Madhya Pradesh
+1. Hobli/Block boundaries
 
 ### Maharashtra
 
@@ -123,6 +131,7 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 ### Rajasthan
 1. GP boundaries
 2. Hobli/Block boundaries
+3. Jaipur Ward and Zone boundaries
 
 ### Sikkim
 
@@ -141,7 +150,8 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 2. Hobli/Block boundaries
 
 ### West Bengal
-
+1. GP boundaries
+2. Hobli/Block boundaries
 
 
 ## Credits
