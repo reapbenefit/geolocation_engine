@@ -66,12 +66,82 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 
 
 ## Data Ingested
-### Karnataka State
+###Andhra Pradesh
+1. GP boundaries
+
+###Arunachal Pradesh
+
+###Assam
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###Bihar
+
+###Chhattisgarh
+
+###Goa
+
+###Gujarat
+
+###Haryana
+
+###Himachal Pradesh
+
+###Jharkhand
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###Karnataka
 1. All AC boundaries
 2. All LS boundaries
 3. GP boundaries
 4. Village boundaries
 5. Hobli boundaries
+
+###Kerala
+
+###Madhya Pradesh
+
+###Maharashtra
+
+###Manipur
+
+###Meghalaya
+
+###Mizoram
+
+###Nagaland
+
+###Odisha
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###Punjab
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###Rajasthan
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###Sikkim
+
+###Tamil Nadu
+
+###Telangana
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###Tripura
+
+###Uttar Pradesh
+
+###Uttarakhand
+1. GP boundaries
+2. Hobli/Block boundaries
+
+###West Bengal
+
 
 
 ## Credits
