@@ -77,8 +77,12 @@ Load the geo file into Google Earth Pro (Thank you Google Earth team). Save the 
 2. Hobli/Block boundaries
 
 ### Bihar
+1. GP boundaries
+2. Hobli/Block boundaries
 
 ### Chhattisgarh
+1. GP boundaries
+2. Hobli/Block boundaries
 
 ### Delhi/NCT
 1. Wards
@@ -163,3 +167,4 @@ Reap Benefit team for identifying the need, creating requirements and working on
 ### Data
 GID
 State GIS websites (esp Karnataka. Special thanks to the Dept of Women and Child Development.)
+Gramhal (MP)
